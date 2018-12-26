@@ -1,0 +1,1 @@
+http://localhost/login/activate.php?email=joe@gmail.com&code=7e7df1b89cf0eaa0d85fb4fa25afcb3d
